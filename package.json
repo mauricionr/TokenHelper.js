@@ -27,6 +27,7 @@
   "homepage": "https://github.com/mauricionr/TokenHelper.js#readme",
   "dependencies": {
     "jsonwebtoken": "^5.0.5",
+    "q": "^1.4.1",
     "request": "^2.62.0"
   }
 }
