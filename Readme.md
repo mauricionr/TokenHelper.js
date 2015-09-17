@@ -1,0 +1,1 @@
+#The ideia here will be create TokenHelper.js and SharePointContext.js
