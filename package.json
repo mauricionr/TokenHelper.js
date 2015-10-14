@@ -1,0 +1,33 @@
+{
+  "name": "nodejssharepointtokenhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricionr/TokenHelper.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sharepoint",
+    "provider",
+    "hosted",
+    "app",
+    "context",
+    "token"
+  ],
+  "author": "mauricio nunes dos reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauricionr/TokenHelper.js/issues"
+  },
+  "homepage": "https://github.com/mauricionr/TokenHelper.js#readme",
+  "dependencies": {
+    "jsonwebtoken": "^5.0.5",
+    "q": "^1.4.1",
+    "request": "^2.62.0"
+  }
+}
