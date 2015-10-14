@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 module.exports = {
     format: function () {
         var args = arguments;
@@ -7,7 +7,7 @@ module.exports = {
         });
     }
 }
-=======
+
 module.exports = {
     format: function () {
         var args = arguments;
@@ -16,4 +16,4 @@ module.exports = {
         });
     }
 }
->>>>>>> 6a89e98b70d9a0d0ccc058b21313897d67b215ba
+
