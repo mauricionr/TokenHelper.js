@@ -1,7 +1,7 @@
 {
-  "name": "nodejssharepointtokenhelper",
+  "name": "sharepoint-token-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs Helper to connect with sharepoint online",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
